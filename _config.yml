@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "China"
-title                    : "Zhe-Rui Yang"
+title                    : "Zhe-Rui Yang / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Zhe-Rui Yang"
 description              : &description "I am a second-year master student from the School of Computer Science and Engineering at Sun Yat-sen University."
