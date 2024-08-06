@@ -20,9 +20,4 @@ Work experience
   * The Hong Kong University of Science and Technology (Guangzhou)
   * Supervisor: Professor Hao Liu
   
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
