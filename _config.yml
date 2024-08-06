@@ -12,7 +12,7 @@ title                    : "Zhe-Rui Yang / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Zhe-Rui Yang"
 description              : &description "I am a second-year master student from the School of Computer Science and Engineering at Sun Yat-sen University."
-url                      : https://yangzhr1.github.io
+url                      : https://yangzhr1.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
 
