@@ -15,4 +15,4 @@ Contact Information
 ======
 Email: yangzhr9@mail2.sysu.edu.cn
 
-Google Scholar: https://scholar.google.com/citations?user=cRmd-Z4AAAAJ&hl=zh-CN&oi=ao
+Google Scholar: https://scholar.google.com/citations?user=cRmd-Z4AAAAJ&hl
